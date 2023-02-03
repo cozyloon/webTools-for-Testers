@@ -1,11 +1,11 @@
 # WEB TOOLS FOR TESTERS!
 
-- [Fake API]
-- [JSON Converters]
-- [JSON Formatters]
-- [UUID Tools]
-- [Regexp]
-- [Cron Jobs]
+- [Fake API](#fake-api)
+- [JSON Converters](#json-converters)
+- [JSON Formatters](#json-formatters)
+- [UUID Tools](#uuid-tools)
+- [Regexp](#regex)
+- [Cron Jobs](#cron-jobs)
 
 ### Fake API
 - [Rest API](https://instantwebtools.net/fake-rest-api)
