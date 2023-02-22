@@ -10,6 +10,7 @@
 ### Fake API
 - [Rest API](https://instantwebtools.net/fake-rest-api)
 - [Secured Rest API](https://instantwebtools.net/secured-fake-rest-api)
+- [Dummy JSON](https://dummyjson.com/)
 
 ### JSON Converters
 - [JSON -> JAVA](https://instantwebtools.net/json-to-java)
