@@ -6,7 +6,7 @@
 - [UUID Tools](#uuid-tools)
 - [Regexp](#regex)
 - [Cron Jobs](#cron-jobs)
-- [Test Data Generator](#test-data-generators)
+- [Test Data Generator](#test-data-generator)
 
 ### Fake API
 - [Rest API](https://instantwebtools.net/fake-rest-api)
