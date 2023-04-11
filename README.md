@@ -4,7 +4,7 @@
 - [JSON Converters](#json-converters)
 - [JSON Formatters](#json-formatters)
 - [UUID Tools](#uuid-tools)
-- [Regexp](#regex)
+- [Regex](#regex)
 - [Cron Jobs](#cron-jobs)
 - [Test Data Generator](#test-data-generator)
 
@@ -21,8 +21,9 @@
 - [Remove whitespaces](https://codebeautify.org/remove-extra-spaces)
 - [Formatter & Validator](https://jsonformatter.curiousconcept.com/)
 
-### Regexp
+### Regex 
 - [AutoRegex](https://www.autoregex.xyz/)
+- [CodePal](https://codepal.ai/regex-generator)
 
 ### Cron Jobs
 - [Crontab.guru](https://crontab.guru/)
