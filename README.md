@@ -12,6 +12,7 @@
 - [Rest API](https://instantwebtools.net/fake-rest-api)
 - [Secured Rest API](https://instantwebtools.net/secured-fake-rest-api)
 - [Dummy JSON](https://dummyjson.com/)
+- [Restful Booker](https://restful-booker.herokuapp.com/apidoc/index.html)
 
 ### JSON Converters
 - [JSON -> JAVA](https://instantwebtools.net/json-to-java)
